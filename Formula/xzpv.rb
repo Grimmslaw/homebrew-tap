@@ -1,7 +1,7 @@
 class Xzpv < Formula
   desc "Cross-platform XZ archiver with visual progress indicator"
   homepage "https://github.com/Grimmslaw/xzpv.git"
-  url "https://github.com/Grimmslaw/xzpv/archive/refs/tags/v1.0.0"
+  url "https://github.com/Grimmslaw/xzpv/archive/refs/tags/v1.0.0.tar.gz"
   version "1.0.0"
   sha256 "791644d010b11118ae0deb73bb180e8c57a88de76edc5e7c36481eb06a447c0a"
   license "MIT"
