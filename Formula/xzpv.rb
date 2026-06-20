@@ -3,7 +3,7 @@ class Xzpv < Formula
   homepage "https://github.com/Grimmslaw/xzpv.git"
   url "https://github.com/Grimmslaw/xzpv/archive/refs/tags/v1.0.0.tar.gz"
   version "1.0.0"
-  sha256 "791644d010b11118ae0deb73bb180e8c57a88de76edc5e7c36481eb06a447c0a"
+  sha256 "deebbe380b18213a207eef905d9ecbbc5c152c1fb5952b72316ff45f2046ff83"
   license "MIT"
 
   # build-time dependencies
